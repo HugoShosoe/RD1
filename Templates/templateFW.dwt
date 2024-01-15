@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ARUKO</title>
+<!-- TemplateEndEditable -->
+<link rel="icon" href="../image/logo-html.png" type="image/x-icon" class="img-100">
+<link rel="stylesheet" href="../CSS/thu-vien.css"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../CSS/main-style.css">
+<link rel="stylesheet" href="../dist/assets/owl.carousel.css">	
+<link rel="stylesheet" href="../dist/assets/owl.theme.default.css">
+<link href="../css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body style="padding-top: 70px">
+	
+<!--
+	<nav class="navbar navbar-light">
+    <div class="container d-flex justify-content-center"> <a class="navbar-brand text-primary" href="#">
+<img src="../img/logo.png" class="d-inline-block align-top" alt=""></a> </div>
+</nav>5
+-->
+	
+<!--
+<nav class="navbar">
+		
+	<div class="container">
+			
+			<div class="menu">
+				<ul>
+					<li><a href="../home.html">HOME</a></li>
+					<li><a href="#">Design</a>
+						<ul>
+						<li><a href="../Succulent Garden Design Essentials.html">Succulent Garden Design Essentials</a></li>
+						<li><a href="#">Succulent Landscape Design</a></li>
+						<li><a href="#">Succulent Container Design</a></li>
+							<li><a href="#">Holiday Ideas</a></li>
+							<li><a href="#">Gift & Project Ideas</a></li>
+							
+					  </ul>
+					
+					</li>
+					<li>	<a href="../dichvu.html">Succulent types</a>		
+						
+					</li>									
+					<li><a href="#">Succulent Help</a>
+						<ul>
+							<li><a href="../thiet-ke.html">Succulent Care Basics</a></li>
+							<li><a href="../home-accents.html">Succulent FAQs</a></li>
+							<li><a href="../Lighting Fixtures.html">Fertilization & Feeding</a></li>
+							<li><a href="../Mirrors and Frames.html">Watering</a></li>
+							<li><a href="../Vases and Planters.html">Pests, Diseases & Problems</a></li>
+							<li><a href="../Rugs and Carpets.html">Propagation</a></li>
+							<li><a href="../Rugs and Carpets.html">Soil and Amendments</a></li>
+							<li><a href="../Rugs and Carpets.html">Overwintering</a></li>
+							<li><a href="../Rugs and Carpets.html">Growing Indoors</a></li>
+							<li><a href="../Rugs and Carpets.html">Seasonal & Regional Care</a></li>
+						</ul>
+					</li>
+					<li><a href="../thiet-ke.html">Resources</a>
+						<ul>
+							<li><a href="../thiet-ke.html">My Books</a></li>
+							<li><a href="../home-accents.html">Online Nurseries</a></li>
+							<li><a href="../Lighting Fixtures.html">Shop Succulent Gifts</a></li>
+							<li><a href="../Mirrors and Frames.html">Tools and Must-Haves</a></li>
+							<li><a href="../Vases and Planters.html">Nurseries & Destinations</a></li>
+							<li><a href="../Rugs and Carpets.html">Succulent Garden Professionals</a></li>
+						</ul>
+				  </li>
+				
+				  <li><a href="#">blog</a></li>
+				</ul>
+			</div>
+  </div>
+</nav>
+-->
+	<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> 
+		<a class="navbar-brand" href="../home.html">
+			<div class="container d-flex justify-content-center"> 
+<img src="../image/logo.png" class="d-inline-block align-top" alt=""> </div></a>
+		<nav class="navbar">
+		
+	<div class="container">
+			
+			<div class="menu">
+				<ul>
+					<li><a href="../home.html" >HOME</a></li>
+					<li><a href="#">Design</a>
+						<ul>
+						<li><a href="../Succulent Garden Design Essentials.html" target="_blank" >Succulent Garden Design Essentials</a></li>
+						<li><a href="#">Succulent Landscape Design</a></li>
+						<li><a href="#">Succulent Container Design</a></li>
+							<li><a href="#">Holiday Ideas</a></li>
+							<li><a href="#">Gift & Project Ideas</a></li>
+							
+					  </ul>
+					
+					</li>
+					<li>	<a href="../Succulent types.html" target="_blank">Succulent types</a>		
+						
+					</li>									
+					<li><a href="../Succulent help.html">Succulent Help</a>
+						<ul>
+							<li><a href="#">Succulent Care Basics</a></li>
+							<li><a href="#">Succulent FAQs</a></li>
+							<li><a href="#">Fertilization & Feeding</a></li>
+							<li><a href="#">Watering</a></li>
+							<li><a href="#">Pests, Diseases & Problems</a></li>
+							<li><a href="#">Propagation</a></li>
+							<li><a href="#">Soil and Amendments</a></li>
+							<li><a href="#">Overwintering</a></li>
+							<li><a href="#">Growing Indoors</a></li>
+							<li><a href="#">Seasonal & Regional Care</a></li>
+						</ul>
+					</li>
+					<li><a href="../thiet-ke.html">Resources</a>
+						<ul>
+							<li><a href="#">My Books</a></li>
+							<li><a href="#">Online Nurseries</a></li>
+							<li><a href="#">Shop Succulent Gifts</a></li>
+							<li><a href="#">Tools and Must-Haves</a></li>
+							<li><a href="#">Nurseries & Destinations</a></li>
+							<li><a href="#">Succulent Garden Professionals</a></li>
+						</ul>
+				  </li>
+				
+				  <li><a href="#">blog</a></li>
+				</ul><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+			</div>
+  </div>
+</nav>
+	  
+	  
+</nav>
+<!-- TemplateBeginEditable name="main" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<footer>
+	<div class="bg-primary text-light">
+			<div class="container">
+				<div class="row">
+					
+				  <div class="col-6">
+						<a href="../index.html" ><img src="../image/logo.png" alt="" class="logo"></a>
+
+				  </div>
+				  <div class="col-2">
+						<h3>THÔNG TIN</h3>
+						<div class="menu-footer bg-primary">
+							<a href="#">SẢN PHẨM</a>
+								<a href="#">CHĂM SÓC</a>
+								<a href="#">THIẾT KẾ</a>
+								<a href="#">HƯỚNG DẪN MUA HÀNG</a>
+								<a href="#">LIÊN HỆ</a>
+							
+						</div>
+					
+				  </div>
+				  <div class="col-2">
+					<h3>THỜI GIAN</h3>
+						<p>THỨ 2-THỨ 7<br>							8.00 am - 10.00 pm</p>
+						<p>CHỦ NHẬT<br>8.00 am - 11.00 am</p>
+				  </div>
+				  <div class="col-2">
+					<h3>THÔNG TIN LIÊN HỆ</h3>
+						<p><i class="fa fa-map-marker text-secondary"></i> 72 Bà Huyện Thanh Quang, Q.3, TP.HCM</p>
+					<p><i class="fa fa-phone text-secondary"></i>0933561117</p>
+						<p><i class="fa fa-envelope-open text-secondary"></i> info@aruko.vn
+</p>
+						<p></p>
+				  </div>
+				</div>
+			</div>
+  </div>
+<!--het phan 1 màu xanh của footer-->
+</footer>
+<script src="../dist/jquery-3.6.0.min.js"></script>
+<script src="../dist/owl.carousel.js"></script>
+<script src="../dist/custom.js"></script>
+<script src="../js/popper.min.js"></script>
+<script src="../js/bootstrap-4.4.1.js"></script>
+</body>
+</html>
